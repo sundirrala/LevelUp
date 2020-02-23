@@ -1,0 +1,3 @@
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Source\BloodMageGuardAI\BloodMageGuardAI.Build.cs
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Source\BloodMageGuardAI.Target.cs
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Source\BloodMageGuardAIEditor.Target.cs

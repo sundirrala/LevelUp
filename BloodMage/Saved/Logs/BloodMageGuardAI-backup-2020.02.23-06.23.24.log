@@ -1,0 +1,1025 @@
+﻿Log file open, 02/23/20 00:43:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BloodMageGuardAI
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304741
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.23-05.43.15:892][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.23-05.43.15:892][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.23-05.43.15:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.23-05.43.15:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:893][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.23-05.43.15:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:894][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-05.43.15:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-05.43.15:906][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-05.43.15:906][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-05.43.15:906][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.23-05.43.15:913][  0]LogHAL: Display: Platform has ~ 32 GB [34155593728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.23-05.43.15:913][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.23-05.43.15:913][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-05.43.15:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.23-05.43.15:914][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.43.15:914][  0]LogInit: Computer: BASECAMP
+[2020.02.23-05.43.15:914][  0]LogInit: User: KevinChua
+[2020.02.23-05.43.15:914][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.23-05.43.15:914][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.23-05.43.15:914][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2020.02.23-05.43.15:914][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.23-05.43.15:914][  0]LogMemory: Process Physical Memory: 99.02 MB used, 99.02 MB peak
+[2020.02.23-05.43.15:914][  0]LogMemory: Process Virtual Memory: 90.29 MB used, 90.29 MB peak
+[2020.02.23-05.43.15:914][  0]LogMemory: Physical Memory: 9838.07 MB used,  22735.24 MB free, 32573.31 MB total
+[2020.02.23-05.43.15:914][  0]LogMemory: Virtual Memory: 4632.98 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.02.23-05.43.15:980][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.23-05.43.15:980][  0]LogInit: Using OS detected locale (en-CA).
+[2020.02.23-05.43.15:981][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.23-05.43.16:151][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.23-05.43.16:186][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.23-05.43.16:186][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.23-05.43.16:372][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-05.43.16:372][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.23-05.43.16:454][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.02.23-05.43.16:454][  0]LogD3D11RHI:       5980/0/16286 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.23-05.43.16:552][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.23-05.43.16:552][  0]LogD3D11RHI:       128/0/16286 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.23-05.43.16:555][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.23-05.43.16:555][  0]LogD3D11RHI:       0/0/16286 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.23-05.43.16:555][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.23-05.43.16:561][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.23-05.43.16:561][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.23-05.43.16:561][  0]LogWindows: EnumDisplayDevices:
+[2020.02.23-05.43.16:561][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.02.23-05.43.16:562][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.23-05.43.16:562][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.23-05.43.16:562][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.23-05.43.16:563][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.23-05.43.16:563][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.23-05.43.16:564][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.23-05.43.16:564][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.23-05.43.16:564][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.02.23-05.43.16:564][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.23-05.43.16:564][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.23-05.43.16:564][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.02.23-05.43.16:607][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.23-05.43.16:609][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-05.43.16:609][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-05.43.16:609][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-05.43.16:622][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.23-05.43.17:076][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.23-05.43.17:090][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.23-05.43.17:104][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.23-05.43.17:119][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.23-05.43.17:134][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.23-05.43.17:148][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.23-05.43.17:162][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.23-05.43.17:176][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.23-05.43.17:185][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.23-05.43.17:258][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.23-05.43.17:262][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.23-05.43.17:315][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.23-05.43.17:315][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.23-05.43.17:338][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.23-05.43.17:338][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.23-05.43.17:353][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.23-05.43.17:367][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.23-05.43.17:382][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.23-05.43.17:397][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.23-05.43.17:445][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.23-05.43.17:445][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.23-05.43.17:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.23-05.43.17:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.23-05.43.17:555][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Intermediate/Shaders/WorkingDirectory/4852/).
+[2020.02.23-05.43.17:555][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevin Chua/AppData/Local/Temp/UnrealShaderWorkingDir/D8E97DFD4BF12568501CD7BD186288B7/'.
+[2020.02.23-05.43.17:557][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.23-05.43.17:557][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.23-05.43.17:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.23-05.43.18:017][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/Kevin Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevin Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-05.43.18:057][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.23-05.43.18:067][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.23-05.43.18:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-05.43.18:067][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.23-05.43.18:080][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevin Chua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.23-05.43.18:080][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.23-05.43.18:080][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.23-05.43.18:097][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.23-05.43.18:098][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.23-05.43.18:098][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.23-05.43.18:185][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2020.02.23-05.43.18:473][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-05.43.18:615][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.23-05.43.18:615][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.23-05.43.18:615][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.23-05.43.18:615][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.23-05.43.18:615][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.23-05.43.18:625][  0]LogNetVersion: BloodMageGuardAI 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4029813413)
+[2020.02.23-05.43.18:975][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.039490 seconds
+[2020.02.23-05.43.18:979][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.23-05.43.18:979][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.23-05.43.18:979][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.23-05.43.19:893][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.23-05.43.19:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.23-05.43.20:186][  0]SourceControl: Source control is disabled
+[2020.02.23-05.43.20:186][  0]SourceControl: Source control is disabled
+[2020.02.23-05.43.20:189][  0]SourceControl: Source control is disabled
+[2020.02.23-05.43.20:192][  0]SourceControl: Source control is disabled
+[2020.02.23-05.43.20:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.23-05.43.20:623][  0]LogOcInput: OculusInput pre-init called
+[2020.02.23-05.43.21:331][  0]LogEngine: Initializing Engine...
+[2020.02.23-05.43.21:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-05.43.21:333][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.23-05.43.21:493][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.23-05.43.21:507][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.23-05.43.21:579][  0]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.43.21:605][  0]LogInit: FAudioDevice initialized.
+[2020.02.23-05.43.21:605][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.23-05.43.21:660][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/Kevin Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.23-05.43.21:665][  0]LogInit: Texture streaming: Enabled
+[2020.02.23-05.43.21:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.23-05.43.21:711][  0]LogInit: Transaction tracking system initialized
+[2020.02.23-05.43.21:744][  0]BlueprintLog: New page: Editor Load
+[2020.02.23-05.43.21:851][  0]LocalizationService: Localization service is disabled
+[2020.02.23-05.43.22:159][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/' took 0.02s
+[2020.02.23-05.43.22:159][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.23-05.43.22:159][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.23-05.43.22:387][  0]SourceControl: Source control is disabled
+[2020.02.23-05.43.22:387][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-05.43.22:388][  0]LightingResults: New page: Lighting Build
+[2020.02.23-05.43.22:391][  0]MapCheck: New page: Map Check
+[2020.02.23-05.43.22:391][  0]LightingResults: New page: Lighting Build
+[2020.02.23-05.43.22:415][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.23-05.43.22:543][  0]LogBlueprint: Warning: [Compiler GuardAnimBP] Walk to LookAround  will never be taken, please connect something to  Can Enter Transition
+[2020.02.23-05.43.22:582][  0]LogBlueprint: Warning: [Compiler GuardAnimBP] [0009.68] Compile of GuardAnimBP successful, but with 1 Warning(s) [in 57 ms] (/Game/Guard/GuardAnimBP.GuardAnimBP)
+[2020.02.23-05.43.22:752][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.43.22:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-05.43.22:793][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.23-05.43.22:793][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-05.43.22:794][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2020.02.23-05.43.22:794][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.406
+[2020.02.23-05.43.22:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.43.22:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.43.22:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.43.22:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.43.22:923][  0]LogCollectionManager: Loaded 0 collections in 0.002788 seconds
+[2020.02.23-05.43.22:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Collections/' took 0.01s
+[2020.02.23-05.43.22:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/Developers/KevinChua/Collections/' took 0.00s
+[2020.02.23-05.43.22:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/Collections/' took 0.00s
+[2020.02.23-05.43.22:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.23-05.43.22:946][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2734 classes and 661 folders.
+[2020.02.23-05.43.22:953][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.43.22:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.22:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-05.43.23:013][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.43.23:019][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.02.23-05.43.23:032][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.23-05.43.23:033][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.23-05.43.23:036][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.23-05.43.23:085][  0]LogRenderer: Reallocating scene render targets to support 1248x528 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-05.43.23:249][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.43.23:249][  0]LogLoad: (Engine Initialization) Total time: 10.34 seconds
+[2020.02.23-05.43.23:249][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.23-05.43.23:281][  0]LogAssetRegistry: Asset discovery search completed in 5.1185 seconds
+[2020.02.23-05.43.23:283][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.23-05.43.23:283][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2020.02.23-05.43.23:284][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.23-05.43.23:303][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-05.45.09:648][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-05.45.13:039][965]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-05.45.13:044][965]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter
+[2020.02.23-05.45.13:233][965]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.02.23-05.45.13:833][965]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.23-05.45.14:399][965]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.23-05.45.22:129][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kevin Chua/Downloads/pngguru.com.png)
+[2020.02.23-05.45.22:146][277]LogTexture: Display: Building textures: pngguru_com (BGRA8, 874X874)
+[2020.02.23-05.45.27:677][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kevin Chua/Downloads/pngguru.com(1).png)
+[2020.02.23-05.45.27:689][727]LogTexture: Display: Building textures: pngguru_com_1_ (AutoDXT, 640X1280)
+[2020.02.23-05.45.31:947][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/pngguru_com" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/pngguru_com.uasset" SILENT=true
+[2020.02.23-05.45.31:992][217]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/pngguru_com502B4AA74F0AD5BE2F2A0386735DD985.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/pngguru_com.uasset'
+[2020.02.23-05.45.31:997][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/pngguru_com_1_" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/pngguru_com_1_.uasset" SILENT=true
+[2020.02.23-05.45.32:038][217]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/pngguru_com_1_5C5D836445EE886CE98914A1988A6A43.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/pngguru_com_1_.uasset'
+[2020.02.23-05.46.02:288][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Knife1" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Knife1.uasset" SILENT=true
+[2020.02.23-05.46.02:314][823]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Knife1764B2A124EC2B801939E73932E821DAF.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Knife1.uasset'
+[2020.02.23-05.46.02:468][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.23-05.46.02:503][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.23-05.46.02:530][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.02.23-05.46.06:651][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/knife2" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/knife2.uasset" SILENT=true
+[2020.02.23-05.46.06:672][308]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/knife2F68647124B602FFB4D7BD190272BA4CC.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/knife2.uasset'
+[2020.02.23-05.46.06:792][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.02.23-05.46.06:821][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.23-05.46.06:848][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.23-05.48.56:642][346]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.23-05.49.22:414][301]LogEditorTransaction: Undo Resize Widget
+[2020.02.23-05.49.29:220][110]LogEditorTransaction: Undo Resize Widget
+[2020.02.23-05.52.08:188][614]BlueprintLog: New page: Compile WBP_BloodMeter
+[2020.02.23-05.52.08:234][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.23-05.53.23:198][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.23-05.53.23:198][595]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.030
+[2020.02.23-05.53.23:200][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/WBP_BloodMeter] ([1] browsable assets)...
+[2020.02.23-05.53.23:200][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_BloodMeter]
+[2020.02.23-05.53.23:273][595]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/WBP_BloodMeter_Auto1384625D14C2D6F87ED7EFFBA011C54ED.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Autosaves/Game/UI/Widgets/WBP_BloodMeter_Auto1.uasset'
+[2020.02.23-05.53.23:275][595]LogFileHelpers: Auto-saving content packages took 0.075
+[2020.02.23-05.57.45:620][984]BlueprintLog: New page: Compile WBP_BloodMeter
+[2020.02.23-05.57.45:656][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.23-05.57.46:302][ 55]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.23-05.57.46:343][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.57.46:343][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.57.46:343][ 55]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2020, 7:57:46 PM)
+[2020.02.23-05.57.46:461][ 55]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.23-05.57.46:476][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014062s)
+[2020.02.23-05.57.46:476][ 55]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.57.46:476][ 55]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2020.02.23-05.57.46:477][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015073s)
+[2020.02.23-05.57.46:507][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.23-05.57.46:564][ 55]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.57.46:578][ 55]LogInit: FAudioDevice initialized.
+[2020.02.23-05.57.46:586][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.57.46:626][ 55]LogLoad: Game class is 'BloodMageGuardAIGameMode'
+[2020.02.23-05.57.46:629][ 55]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.23-00.57.46
+[2020.02.23-05.57.46:630][ 55]LogWorld: Bringing up level for play took: 0.003952
+[2020.02.23-05.57.46:645][ 55]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.23-05.57.46:647][ 55]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.23-05.57.46:648][ 55]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.02.23-05.57.46:650][ 55]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.436
+[2020.02.23-05.57.46:650][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.57.46:882][ 57]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-05.57.51:838][642]LogBlueprintUserMessages: [MCv2_2] 1.0
+[2020.02.23-05.57.52:037][666]LogBlueprintUserMessages: [MCv2_2] 2.0
+[2020.02.23-05.57.52:063][669]LogBlueprintUserMessages: [MCv2_2] 3.0
+[2020.02.23-05.57.52:070][670]LogBlueprintUserMessages: [MCv2_2] 4.0
+[2020.02.23-05.57.52:079][671]LogBlueprintUserMessages: [MCv2_2] 5.0
+[2020.02.23-05.57.52:087][672]LogBlueprintUserMessages: [MCv2_2] 6.0
+[2020.02.23-05.57.52:096][673]LogBlueprintUserMessages: [MCv2_2] 7.0
+[2020.02.23-05.57.52:096][673]LogBlueprintUserMessages: [MCv2_2] 8.0
+[2020.02.23-05.57.52:113][675]LogBlueprintUserMessages: [MCv2_2] 9.0
+[2020.02.23-05.57.52:113][675]LogBlueprintUserMessages: [MCv2_2] 10.0
+[2020.02.23-05.57.52:130][677]LogBlueprintUserMessages: [MCv2_2] 11.0
+[2020.02.23-05.57.52:138][678]LogBlueprintUserMessages: [MCv2_2] 12.0
+[2020.02.23-05.57.52:138][678]LogBlueprintUserMessages: [MCv2_2] 13.0
+[2020.02.23-05.57.52:147][679]LogBlueprintUserMessages: [MCv2_2] 14.0
+[2020.02.23-05.57.52:154][680]LogBlueprintUserMessages: [MCv2_2] 15.0
+[2020.02.23-05.57.52:154][680]LogBlueprintUserMessages: [MCv2_2] 16.0
+[2020.02.23-05.57.52:163][681]LogBlueprintUserMessages: [MCv2_2] 17.0
+[2020.02.23-05.57.52:163][681]LogBlueprintUserMessages: [MCv2_2] 18.0
+[2020.02.23-05.57.52:171][682]LogBlueprintUserMessages: [MCv2_2] 19.0
+[2020.02.23-05.57.52:188][684]LogBlueprintUserMessages: [MCv2_2] 20.0
+[2020.02.23-05.57.52:188][684]LogBlueprintUserMessages: [MCv2_2] 21.0
+[2020.02.23-05.57.52:213][687]LogBlueprintUserMessages: [MCv2_2] 22.0
+[2020.02.23-05.57.52:230][689]LogBlueprintUserMessages: [MCv2_2] 23.0
+[2020.02.23-05.57.52:238][690]LogBlueprintUserMessages: [MCv2_2] 24.0
+[2020.02.23-05.57.52:238][690]LogBlueprintUserMessages: [MCv2_2] 25.0
+[2020.02.23-05.57.52:246][691]LogBlueprintUserMessages: [MCv2_2] 26.0
+[2020.02.23-05.57.52:305][698]LogBlueprintUserMessages: [MCv2_2] 27.0
+[2020.02.23-05.57.54:595][972]LogBlueprintUserMessages: [MCv2_2] 28.0
+[2020.02.23-05.57.54:696][984]LogBlueprintUserMessages: [MCv2_2] 29.0
+[2020.02.23-05.57.54:703][985]LogBlueprintUserMessages: [MCv2_2] 30.0
+[2020.02.23-05.57.54:753][991]LogBlueprintUserMessages: [MCv2_2] 31.0
+[2020.02.23-05.57.54:762][992]LogBlueprintUserMessages: [MCv2_2] 32.0
+[2020.02.23-05.57.54:820][999]LogBlueprintUserMessages: [MCv2_2] 33.0
+[2020.02.23-05.57.55:254][ 51]LogBlueprintUserMessages: [MCv2_2] 34.0
+[2020.02.23-05.57.55:270][ 53]LogBlueprintUserMessages: [MCv2_2] 35.0
+[2020.02.23-05.57.55:287][ 55]LogBlueprintUserMessages: [MCv2_2] 36.0
+[2020.02.23-05.57.55:345][ 62]LogBlueprintUserMessages: [MCv2_2] 37.0
+[2020.02.23-05.57.56:323][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.57.56:323][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.57.56:333][179]LogSlate: Window 'BloodMageGuardAI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-05.57.56:363][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.57.56:364][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.57.56:435][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.23-05.57.56:445][180]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.23-05.57.59:336][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/WBP_BloodMeter" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset" SILENT=true
+[2020.02.23-05.57.59:409][526]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/WBP_BloodMeter7AEDE7BF4BB49DABC9F9979772629BBA.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset'
+[2020.02.23-05.58.02:948][940]LogEditorViewport: Clicking on Actor (LMB): MCv2_C (MCv2)
+[2020.02.23-05.58.05:746][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-05.58.05:808][264]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MCv2/BluePrints/MCv2.MCv2
+[2020.02.23-05.58.06:204][265]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.23-05.58.11:405][881]BlueprintLog: New page: Compile MCv2
+[2020.02.23-05.58.11:718][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.02.23-05.58.12:510][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.23-05.58.12:523][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.12:523][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.58.12:523][970]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2020, 7:58:12 PM)
+[2020.02.23-05.58.12:523][970]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.23-05.58.12:540][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016537s)
+[2020.02.23-05.58.12:541][970]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.58.12:541][970]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2020.02.23-05.58.12:541][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017326s)
+[2020.02.23-05.58.12:583][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.02.23-05.58.12:640][970]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.58.12:652][970]LogInit: FAudioDevice initialized.
+[2020.02.23-05.58.12:660][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.58.12:688][970]LogLoad: Game class is 'BloodMageGuardAIGameMode'
+[2020.02.23-05.58.12:691][970]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.23-00.58.12
+[2020.02.23-05.58.12:692][970]LogWorld: Bringing up level for play took: 0.003667
+[2020.02.23-05.58.12:709][970]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.495
+[2020.02.23-05.58.12:710][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.14:334][155]LogCharacterMovement: MCv2_2 is stuck and failed to move! Velocity: X=23.91 Y=339.18 Z=0.00 Location: X=74.11 Y=834.00 Z=196.15 Normal: X=0.78 Y=-0.21 Z=-0.59 PenetrationDepth:3.035 Actor:GuardChar3_5 Component:StaticMesh BoneName:None (0 other events since notify)
+[2020.02.23-05.58.24:994][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.24:994][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.58.25:004][434]LogSlate: Window 'BloodMageGuardAI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-05.58.25:042][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.58.25:043][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.25:080][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.23-05.58.25:108][435]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.23-05.58.29:040][907]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.23-05.58.29:052][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.29:052][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.58.29:052][907]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2020, 7:58:29 PM)
+[2020.02.23-05.58.29:052][907]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.23-05.58.29:067][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014384s)
+[2020.02.23-05.58.29:067][907]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.58.29:068][907]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2020.02.23-05.58.29:068][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015160s)
+[2020.02.23-05.58.29:095][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.23-05.58.29:150][907]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.58.29:163][907]LogInit: FAudioDevice initialized.
+[2020.02.23-05.58.29:171][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.58.29:204][907]LogLoad: Game class is 'BloodMageGuardAIGameMode'
+[2020.02.23-05.58.29:207][907]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.23-00.58.29
+[2020.02.23-05.58.29:208][907]LogWorld: Bringing up level for play took: 0.003658
+[2020.02.23-05.58.29:222][907]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.007
+[2020.02.23-05.58.29:222][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.32:203][249]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BloodBag_C /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BloodBag2_5
+	Function /Game/BloodSuff/BloodBag.BloodBag_C:ExecuteUbergraph_BloodBag:01EA
+[2020.02.23-05.58.32:203][249]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BloodBag Function:  Execute Ubergraph Blood Bag Graph:  EventGraph Node:  DestroyComponent
+[2020.02.23-05.58.40:938][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.40:938][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.58.40:948][297]LogSlate: Window 'BloodMageGuardAI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-05.58.40:985][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.58.40:985][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.58.41:040][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.23-05.58.41:082][298]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.23-05.58.44:914][757]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BloodSuff/BloodBag.BloodBag
+[2020.02.23-05.58.46:717][946]LogSlate: Window 'Message Log' being destroyed
+[2020.02.23-05.58.46:721][946]LogSlate: Window 'Message Log' being destroyed
+[2020.02.23-05.59.18:942][795]BlueprintLog: New page: Compile BloodBag
+[2020.02.23-05.59.19:072][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.23-05.59.20:191][927]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.23-05.59.20:206][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.20:206][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.59.20:206][927]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2020, 7:59:20 PM)
+[2020.02.23-05.59.20:206][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.23-05.59.20:218][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012363s)
+[2020.02.23-05.59.20:219][927]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.59.20:219][927]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2020.02.23-05.59.20:219][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013055s)
+[2020.02.23-05.59.20:248][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.02.23-05.59.20:302][927]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.59.20:314][927]LogInit: FAudioDevice initialized.
+[2020.02.23-05.59.20:320][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.20:350][927]LogLoad: Game class is 'BloodMageGuardAIGameMode'
+[2020.02.23-05.59.20:354][927]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.23-00.59.20
+[2020.02.23-05.59.20:355][927]LogWorld: Bringing up level for play took: 0.003440
+[2020.02.23-05.59.20:368][927]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 6 in '/Game/Guard/GuardChar1.GuardChar1_C:ExecuteUbergraph_GuardChar1'!
+[2020.02.23-05.59.20:368][927]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.154
+[2020.02.23-05.59.20:369][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.22:891][220]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=12.57 Y=11.55 Z=0.00 Location: X=-503.71 Y=-401.76 Z=214.61 Normal: X=-0.98 Y=-0.21 Z=0.00 PenetrationDepth:0.205 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2020.02.23-05.59.24:004][353]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=27.54 Y=20.16 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.26 Z=0.00 PenetrationDepth:0.098 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (59 other events since notify)
+[2020.02.23-05.59.25:003][473]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=247.91 Y=181.44 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.27 Z=0.00 PenetrationDepth:0.059 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (117 other events since notify)
+[2020.02.23-05.59.26:010][592]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=68.86 Y=50.40 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:0.869 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (113 other events since notify)
+[2020.02.23-05.59.27:011][712]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=206.59 Y=151.20 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:4.472 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (115 other events since notify)
+[2020.02.23-05.59.28:014][832]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=385.64 Y=282.23 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.27 Z=0.00 PenetrationDepth:7.574 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (86 other events since notify)
+[2020.02.23-05.59.29:022][952]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=275.46 Y=201.59 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:6.716 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (114 other events since notify)
+[2020.02.23-05.59.30:031][ 73]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=13.77 Y=10.08 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.29 Z=0.00 PenetrationDepth:3.418 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (105 other events since notify)
+[2020.02.23-05.59.31:039][194]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=13.77 Y=10.08 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.29 Z=0.00 PenetrationDepth:4.247 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (82 other events since notify)
+[2020.02.23-05.59.32:048][315]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=13.77 Y=10.08 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.95 Y=-0.30 Z=0.00 PenetrationDepth:5.906 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (80 other events since notify)
+[2020.02.23-05.59.33:056][436]LogCharacterMovement: GuardChar1_2 is stuck and failed to move! Velocity: X=13.77 Y=10.08 Z=0.00 Location: X=-514.83 Y=-355.45 Z=214.61 Normal: X=-0.96 Y=-0.29 Z=0.00 PenetrationDepth:9.577 Actor:GuardChar2_2 Component:StaticMesh BoneName:None (78 other events since notify)
+[2020.02.23-05.59.38:208][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.38:208][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.38:218][ 54]LogSlate: Window 'BloodMageGuardAI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-05.59.38:256][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.59.38:256][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.38:314][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.23-05.59.38:336][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.23-05.59.41:911][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.23-05.59.41:925][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.41:925][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.59.41:925][478]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 22, 2020, 7:59:41 PM)
+[2020.02.23-05.59.41:925][478]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.23-05.59.41:938][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012455s)
+[2020.02.23-05.59.41:938][478]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.23-05.59.41:938][478]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2020.02.23-05.59.41:938][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013138s)
+[2020.02.23-05.59.41:966][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.23-05.59.42:021][478]LogInit: XAudio2 using 'Speaker (UE ROLL Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.59.42:033][478]LogInit: FAudioDevice initialized.
+[2020.02.23-05.59.42:038][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.42:067][478]LogLoad: Game class is 'BloodMageGuardAIGameMode'
+[2020.02.23-05.59.42:070][478]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.23-00.59.42
+[2020.02.23-05.59.42:071][478]LogWorld: Bringing up level for play took: 0.003302
+[2020.02.23-05.59.42:084][478]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 6 in '/Game/Guard/GuardChar1.GuardChar1_C:ExecuteUbergraph_GuardChar1'!
+[2020.02.23-05.59.42:086][478]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.129
+[2020.02.23-05.59.42:086][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.50:482][482]LogScript: Warning: Accessed None trying to read property PatrolTarget
+	GuardChar1_C /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GuardChar1_2
+	Function /Game/Guard/GuardChar1.GuardChar1_C:ExecuteUbergraph_GuardChar1:04DA
+[2020.02.23-05.59.50:482][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolTarget". Blueprint:  GuardChar1 Function:  Execute Ubergraph Guard Char 1 Graph:  Patroling Node:  Next Waypoint Node
+[2020.02.23-05.59.51:747][629]LogParticles: Error: Bad values in FParticleSystemSceneProxy::GetObjectPositionAndScale
+[2020.02.23-05.59.51:747][629]LogParticles: Error: SystemPositionForMacroUVs: {-14.301933, 1386.768188, -10.484231}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ObjectPostProjectionPositionWithW: {-274.566650, -514.248413, 10.000000, 0.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: RightPostProjectionPosition: {-74.566772, -514.248413, 10.000000, 0.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: UpPostProjectionPosition: {-274.566650, -143.986023, 10.000000, 0.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ObjectNDCPosition: {-27456666.000000, -51424840.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: RightNDCPosX: -inf
+[2020.02.23-05.59.51:747][629]LogParticles: Error: UpNDCPosY: -inf
+[2020.02.23-05.59.51:747][629]LogParticles: Error: MacroUVPosition: {-14.301933, 1386.768188, -10.484231}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: MacroUVRadius: 200.000000
+[2020.02.23-05.59.51:747][629]LogParticles: Error: DX: -inf
+[2020.02.23-05.59.51:747][629]LogParticles: Error: DY: -inf
+[2020.02.23-05.59.51:747][629]LogParticles: Error: View0: {0.078914, -0.996881, 0.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: View1: {0.000000, 0.000000, 1.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: View2: {-0.996881, -0.078914, 0.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: View3: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ViewProj0: {0.078338, -0.996927, 0.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ViewProj1: {-0.000895, -0.000071, 1.851312, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ViewProj2: {0.000000, 0.000000, 0.000000, 1.000000}
+[2020.02.23-05.59.51:747][629]LogParticles: Error: ViewProj3: {-0.996881, -0.078914, 0.000000, 1.000000}
+[2020.02.23-05.59.55:483][ 67]LogScript: Warning: Accessed None trying to read property PatrolTarget
+	GuardChar1_C /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GuardChar1_2
+	Function /Game/Guard/GuardChar1.GuardChar1_C:ExecuteUbergraph_GuardChar1:04DA
+[2020.02.23-05.59.55:483][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolTarget". Blueprint:  GuardChar1 Function:  Execute Ubergraph Guard Char 1 Graph:  Patroling Node:  Next Waypoint Node
+[2020.02.23-05.59.56:784][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.56:784][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.56:795][223]LogSlate: Window 'BloodMageGuardAI Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.23-05.59.56:828][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.59.56:828][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.23-05.59.56:865][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.23-05.59.56:894][224]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.23-05.59.59:901][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Guard/GuardChar1.GuardChar1
+[2020.02.23-06.00.01:113][699]LogSlate: Window 'Message Log' being destroyed
+[2020.02.23-06.00.01:118][699]LogSlate: Window 'Message Log' being destroyed
+[2020.02.23-06.02.20:924][388]BlueprintLog: New page: Compile GuardChar1
+[2020.02.23-06.02.20:933][388]LogBlueprint: Warning: [Compiler GuardAnimBP] Walk to LookAround  will never be taken, please connect something to  Can Enter Transition
+[2020.02.23-06.02.20:951][388]LogBlueprint: Warning: [Compiler GuardAnimBP] [1148.05] Compile of GuardAnimBP successful, but with 1 Warning(s) [in 26 ms] (/Game/Guard/GuardAnimBP.GuardAnimBP)
+[2020.02.23-06.02.21:096][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.23-06.02.22:830][588]LogRenderer: Reallocating scene render targets to support 1272x716 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-06.02.35:949][159]BlueprintLog: New page: Compile GuardChar1
+[2020.02.23-06.02.35:956][159]LogBlueprint: Warning: [Compiler GuardAnimBP] Walk to LookAround  will never be taken, please connect something to  Can Enter Transition
+[2020.02.23-06.02.35:976][159]LogBlueprint: Warning: [Compiler GuardAnimBP] [1163.07] Compile of GuardAnimBP successful, but with 1 Warning(s) [in 26 ms] (/Game/Guard/GuardAnimBP.GuardAnimBP)
+[2020.02.23-06.02.36:123][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.23-06.04.03:823][612]BlueprintLog: New page: Compile GuardChar1
+[2020.02.23-06.04.03:831][612]LogBlueprint: Warning: [Compiler GuardAnimBP] Walk to LookAround  will never be taken, please connect something to  Can Enter Transition
+[2020.02.23-06.04.03:849][612]LogBlueprint: Warning: [Compiler GuardAnimBP] [1250.94] Compile of GuardAnimBP successful, but with 1 Warning(s) [in 25 ms] (/Game/Guard/GuardAnimBP.GuardAnimBP)
+[2020.02.23-06.04.03:999][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.23-06.04.05:320][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Guard/GuardChar1" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/Guard/GuardChar1.uasset" SILENT=true
+[2020.02.23-06.04.05:683][763]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/GuardChar1C8FC7C3C42AA5AB2B67FF9837C4F602E.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/Guard/GuardChar1.uasset'
+[2020.02.23-06.04.06:927][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.02.23-06.04.06:966][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.23-06.04.07:261][902]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/ThirdPersonExampleMap2214CF334ABCBA81283560A16DCF0485.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.23-06.04.07:283][902]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.346
+[2020.02.23-06.04.07:299][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MCv2/BluePrints/MCv2" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/MCv2/BluePrints/MCv2.uasset" SILENT=true
+[2020.02.23-06.04.07:698][902]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/MCv2B11AF59848F85E1EFC3CDEAC28C27D61.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/MCv2/BluePrints/MCv2.uasset'
+[2020.02.23-06.04.07:716][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BloodSuff/BloodBag" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/BloodSuff/BloodBag.uasset" SILENT=true
+[2020.02.23-06.04.07:797][902]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/BloodBag9578CE3045D7B2FC9DC861A9BAD9407C.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/BloodSuff/BloodBag.uasset'
+[2020.02.23-06.04.10:034][165]MapCheck: New page: Map Check
+[2020.02.23-06.04.10:042][165]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.23-06.04.10:042][165]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.23-06.04.10:072][165]LightingResults: New page: Lighting Build - Feb 22, 2020, 8:04:10 PM
+[2020.02.23-06.04.10:110][165]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.23-06.04.10:445][165]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.23-06.04.10:449][165]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.23-06.04.12:462][165]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.23-06.04.12:462][165]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4852
+[2020.02.23-06.04.14:633][165]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.23-06.04.14:633][165]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.23-06.04.14:633][165]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.23-06.04.14:633][165]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.23-06.04.14:633][165]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.23-06.04.14:898][165]LogEditorBuildUtils: Build time 0:04
+[2020.02.23-06.04.14:908][165]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.23-06.04.14:918][165]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.23-06.04.14:944][166]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.23-06.04.14:950][166]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.23-06.04.14:967][167]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.23-06.04.14:974][167]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.23-06.04.14:990][168]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.23-06.04.14:997][168]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.23-06.04.15:014][169]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.23-06.04.15:020][169]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.23-06.04.18:205][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.23-06.04.23:692][192]Job is a success!
+[2020.02.23-06.04.24:076][193]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:      BrickData 240x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:          1: 8.3% covering 6.3% of volume
+[2020.02.23-06.04.24:077][193]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.02.23-06.04.24:442][193]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.02.23-06.04.24:595][193]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.02.23-06.04.24:595][193]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X128)
+[2020.02.23-06.04.24:595][193]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.02.23-06.04.24:683][193]Lightmass on BASECAMP: 4.40 sec total, 268 ms importing, 34 ms setup, 741 ms photons, 3.21 sec processing, 0 ms extra exporting [58/58 mappings]. Threads: 22.3 sec total, 4.82 sec processing.
+[2020.02.23-06.04.24:685][193]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 15 meshes in 4 LightmapResourceClusters (3.8 Meshes per cluster).
+[2020.02.23-06.04.24:723][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.02.23-06.04.24:728][193]LogStaticLightingSystem: Illumination: 14.3 sec (313 ms encoding lightmaps, 150 ms encoding shadowmaps)
+[2020.02.23-06.04.24:729][193]LogStaticLightingSystem: Lightmap texture memory:  3.5 MB (3.3 MB streaming, 0.2 MB non-streaming), 8 textures
+[2020.02.23-06.04.24:729][193]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.02.23-06.04.25:706][193]DumpUnbuiltLightIteractions
+[2020.02.23-06.04.25:706][193]Lights with unbuilt interactions: 0
+[2020.02.23-06.04.25:706][193]
+[2020.02.23-06.04.25:706][193]Primitives with unbuilt interactions: 0
+[2020.02.23-06.04.25:799][194]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.23-06.04.25:799][194]MapCheck: New page: ThirdPersonExampleMap - Feb 22, 2020, 8:04:25 PM
+[2020.02.23-06.04.25:800][194]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.462ms to complete.
+[2020.02.23-06.05.25:329][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-06.05.32:913][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-06.05.32:939][652]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.23-06.05.33:606][652]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.23-06.06.28:824][180]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.23-06.06.28:828][180]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.23-06.06.30:412][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.07.22:240][445]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.23-06.07.35:496][  4]BlueprintLog: New page: Compile MCv2
+[2020.02.23-06.07.35:528][  4]LogClass: Warning: Type mismatch in HitPoints of MCv2_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2020.02.23-06.07.35:528][  4]LogBlueprint: Warning: [Compiler MCv2] Can't parse default value 'False' for  . Property: HitPoints.
+[2020.02.23-06.07.35:730][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.23-06.07.35:755][  4]LogBlueprint: Warning: [Compiler MCv2] [1462.85] Compile of MCv2 successful, but with 1 Warning(s) [in 258 ms] (/Game/MCv2/BluePrints/MCv2.MCv2)
+[2020.02.23-06.08.37:967][450]BlueprintLog: New page: Compile MCv2
+[2020.02.23-06.08.38:171][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.23-06.11.05:114][956]BlueprintLog: New page: Compile MCv2
+[2020.02.23-06.11.05:337][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.23-06.11.05:734][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MCv2/BluePrints/MCv2" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/MCv2/BluePrints/MCv2.uasset" SILENT=true
+[2020.02.23-06.11.06:394][992]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/MCv268CF08754D0E381A129F659F4F33673C.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/MCv2/BluePrints/MCv2.uasset'
+[2020.02.23-06.11.07:377][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.23-06.11.07:417][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.23-06.11.07:940][102]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/ThirdPersonExampleMap8165B9B3454B1243A3DA78A05BEEDBBB.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.23-06.11.07:963][102]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.577
+[2020.02.23-06.11.08:070][102]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/ThirdPersonExampleMap_BuiltData3625C02B4107213520D03BBF577FAAD4.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.23-06.11.11:127][463]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter
+[2020.02.23-06.11.14:756][857]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter_C:WidgetTree.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_0.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_1.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_15) from referencer (Image /Engine/UMG/Editor/Transient.Image_85).  Import failed...
+[2020.02.23-06.14.15:788][890]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_15"''
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter_C:WidgetTree.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_0.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_1.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:WBP_BloodMeter_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.23-06.14.15:788][890]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/Widgets/WBP_BloodMeter.WBP_BloodMeter:WidgetTree.CanvasPanel_0.CanvasPanelSlot_16) from referencer (ProgressBar /Engine/UMG/Editor/Transient.ProgressBar_224).  Import failed...
+[2020.02.23-06.14.15:788][890]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_16"''
+[2020.02.23-06.18.44:888][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kevin Chua/Pictures/heart-drawing-clip-art-heart.jpg)
+[2020.02.23-06.18.44:900][543]LogTexture: Display: Building textures: heart-drawing-clip-art-heart (BGRA8, 728X771)
+[2020.02.23-06.18.46:782][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/WBP_BloodMeter" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset" SILENT=true
+[2020.02.23-06.18.46:873][738]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/WBP_BloodMeter90D693E845EE0C07B502B9A4915092BA.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset'
+[2020.02.23-06.18.46:930][738]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/heart-drawing-clip-art-heart082022E64CEC095C5C3DB2B48E3327B6.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/heart-drawing-clip-art-heart.uasset'
+[2020.02.23-06.18.54:369][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Heart" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Heart.uasset" SILENT=true
+[2020.02.23-06.18.54:385][622]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Heart73A261744A4A38D89678E4BCF0AE253B.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Heart.uasset'
+[2020.02.23-06.18.54:523][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.23-06.18.54:557][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.23-06.18.54:586][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.23-06.19.01:171][353]LogEditorTransaction: Undo Move Widgets
+[2020.02.23-06.21.07:795][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.23-06.21.07:795][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.037
+[2020.02.23-06.21.07:796][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Widgets/WBP_BloodMeter] ([1] browsable assets)...
+[2020.02.23-06.21.07:796][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/WBP_BloodMeter]
+[2020.02.23-06.21.07:836][766]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/WBP_BloodMeter_Auto2CA4A887E4A676652433E6C94B0BDB767.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Autosaves/Game/UI/Widgets/WBP_BloodMeter_Auto2.uasset'
+[2020.02.23-06.21.07:837][766]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.02.23-06.23.15:461][537]LogSlate: Window 'Message' being destroyed
+[2020.02.23-06.23.15:466][537]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Kevin Chua/Pictures/heart.png)
+[2020.02.23-06.23.19:428][537]LogSlate: Window 'Message' being destroyed
+[2020.02.23-06.23.19:442][537]LogTexture: Display: Building textures: heart (BGRA8, 648X686)
+[2020.02.23-06.23.21:536][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/WBP_BloodMeter" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset" SILENT=true
+[2020.02.23-06.23.21:579][774]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/WBP_BloodMeterB64633D4498BDDC59A9DD19D5604F9EF.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/WBP_BloodMeter.uasset'
+[2020.02.23-06.23.21:586][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Heart" FILE="../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Heart.uasset" SILENT=true
+[2020.02.23-06.23.21:626][774]LogSavePackage: Moving '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Saved/Heart4254CF4F4D84B8474207F384E4284669.tmp' to '../../../../../../Users/Kevin Chua/Desktop/BloodMageGuardAI/Content/UI/Widgets/Heart.uasset'
+[2020.02.23-06.23.22:586][887]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.02.23-06.23.24:266][888]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.23-06.23.24:266][888]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.02.23-06.23.24:266][888]LogWindows: Error: === Critical error: ===
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: Rendering thread exception:
+[2020.02.23-06.23.24:266][888]LogWindows: Error: Assertion failed: ObjectWeakPtr.IsValid(bEvenIfPendingKill, bThreadSafe) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateUTextureResource.cpp] [Line: 54] 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: Texture Heart has become invalid.  This means the resource was garbage collected while slate was using it
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffba677a839 KERNELBASE.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54d81f37 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54d846e7 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54b97d1a UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54b1fe33 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54b204d0 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb311a4277 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb3115036f UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb3115f7d9 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb31165cfa UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb3116e220 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb549a22d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb549a2563 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb85ae59f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb85aec184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54d94b3f UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffb54d908a7 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffba8687bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: [Callstack] 0x00007ffba960ced1 ntdll.dll!UnknownFunction []
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:266][888]LogWindows: Error: 
+[2020.02.23-06.23.24:279][888]LogExit: Executing StaticShutdownAfterError
+[2020.02.23-06.23.24:283][888]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.02.23-06.23.24:286][888]Log file closed, 02/23/20 01:23:24

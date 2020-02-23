@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BloodMageGuardAI.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8C4EB745-91D1-4DD2-9400-B69B4B08721E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BloodMageGuardAI.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BloodMageGuardAIEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2246596E-F457-45E0-A4B2-DA0D9F6AE694}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BloodMageGuardAI">
+      <UniqueIdentifier>{B01E956E-6448-49FF-9F0C-DF79D3CFE559}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAI.Build.cs">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAI.cpp">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAI.h">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAICharacter.cpp">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAICharacter.h">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAIGameMode.cpp">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BloodMageGuardAI\BloodMageGuardAIGameMode.h">
+      <Filter>Source\BloodMageGuardAI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

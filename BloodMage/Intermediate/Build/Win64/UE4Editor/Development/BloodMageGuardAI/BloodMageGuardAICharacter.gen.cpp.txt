@@ -1,0 +1,9 @@
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Intermediate\Build\Win64\UE4Editor\Development\BloodMageGuardAI\Definitions.BloodMageGuardAI.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Source\BloodMageGuardAI/BloodMageGuardAICharacter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\chuak\perforce\game2013_chua_kevin\kevinchristopher.chua\bloodmageguardai\intermediate\build\win64\ue4editor\inc\bloodmageguardai\BloodMageGuardAICharacter.generated.h

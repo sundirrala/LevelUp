@@ -1,0 +1,2 @@
+C:\Users\chuak\Perforce\GAME2013_Chua_Kevin\KevinChristopher.Chua\BloodMageGuardAI\Intermediate\Build\Win64\UE4Editor\Development\BloodMageGuardAI\Definitions.BloodMageGuardAI.h
+c:\users\chuak\perforce\game2013_chua_kevin\kevinchristopher.chua\bloodmageguardai\source\bloodmageguardai\BloodMageGuardAI.h
